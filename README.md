@@ -172,15 +172,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-**Arul Pandiyan Kamaraj**  
-Founder — [TechMesh AI](https://techmesh.ai)
+**Arul Pandiyan 
 
-Arul is a technology entrepreneur building AI-powered solutions for the manufacturing industry. With a vision to modernize traditional manufacturing workflows through intelligent automation, he founded TechMesh AI to bridge the gap between industrial operations and cutting-edge AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arul%20Pandiyan%20Kamaraj-blue?logo=linkedin)](https://www.linkedin.com/in/arul-pandiyan-kamaraj-16b1a340)
-[![Email](https://img.shields.io/badge/Email-project%40techmesh.ai-red?logo=gmail)](mailto:project@techmesh.ai)
-[![Phone](https://img.shields.io/badge/Mobile-%2B91%209742415432-green?logo=whatsapp)](https://wa.me/919742415432)
-
----
 
 <p align="center">Built with ❤️ by TechMesh AI</p>
